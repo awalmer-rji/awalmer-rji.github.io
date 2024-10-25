@@ -3917,3 +3917,25 @@ input, select, textarea {
 			display: inline;
 			padding: .2rem;
 		}
+
+		.paragraph-bg-highlight-2 {
+			background-color: #a57ef4;
+			display: inline;
+			padding: .2rem;
+		}
+
+		.paragraph-bg-highlight-3 {
+			background-color: #9165e7;
+			display: inline;
+			padding: .2rem;
+		}
+
+		.paragraph-bg-highlight-4 {
+			background-color: #6281de;
+			display: inline;
+			padding: .2rem;
+		}
+
+		.paragraph-tad-smaller {
+			font-size: .85em;
+		}
